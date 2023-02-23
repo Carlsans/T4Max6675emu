@@ -4,3 +4,4 @@ Use the sketch in this repo, pin definition on top, the max modules share 4 pins
 ![02](https://user-images.githubusercontent.com/46719148/220945503-7a8043c6-968f-4c34-8ad0-6e6b33005b3f.png)
 ![03](https://user-images.githubusercontent.com/46719148/220945513-7edd4f4b-ff69-4cf1-80c1-6f76e4f94e36.png)
 ![04](https://user-images.githubusercontent.com/46719148/220945521-9959b61e-2566-4d89-bc6a-ef8f51d6b948.png)
+![05](https://user-images.githubusercontent.com/46719148/220947923-2dffde7b-d500-439b-ab7e-5b5f2808f4dc.png)
