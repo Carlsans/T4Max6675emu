@@ -2,16 +2,16 @@
 
 #include "max6675.h"
 
-int thermoDO = 12;//mauve
-int thermoCS = 10;//orange
-int thermoCLK = 13;//vert
+int thermoSCK = 12;//mauve
+int thermoCS = 11;//orange
+int thermoSO = 10;//vert
 int thermoCS2 = 9;//jaune
 bool unit_F = true;
 float tempA;
 float tempB;
 
-MAX6675 thermocouple(thermoCLK, thermoCS, thermoDO);
-MAX6675 thermocouple2(thermoCLK, thermoCS2, thermoDO);
+MAX6675 thermocouple(thermoSCK, thermoCS, thermoSO);
+MAX6675 thermocouple2(thermoSCK, thermoCS2, thermoSO);
 void setup() {
   Serial.begin(115200);
   //Serial.println("MAX6675 test");
